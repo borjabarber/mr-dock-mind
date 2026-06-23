@@ -1,4 +1,4 @@
-![Mr Dock_mind banner](img/banner.png)
+![Mr Dock_mind banner](img/banner2.png)
 
 # Mr. Dock_mind
 
@@ -9,7 +9,7 @@ Esta construido con TypeScript y funciona como una pequena memoria tecnica local
 La idea es sencilla: traer documentacion a tu maquina, indexarla una vez y poder preguntarle como si tuvieras un asistente especializado en esos docs, sin depender de una base vectorial externa ni de servicios como Pinecone, Supabase, LangChain o LlamaIndex.
 
 
-## MVP Actual
+## Version Alpha 
 
 La version actual puede:
 
