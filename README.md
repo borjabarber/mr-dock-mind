@@ -72,48 +72,8 @@ Ejecutar el CLI en desarrollo:
 ```bash
 pnpm exec tsx src/main.ts --help
 ```
-## Uso del CLI (Comandos de la interface grafica)
 
-
-Abrir la interfaz interactiva en terminal:
-
-```bash
-pnpm exec tsx src/main.ts
-```
-
-
-Anadir una pagina de documentacion:
-
-```bash
-/add https://docs.astro.build/en/guides/content-collections/
-```
-
-
-Hacer una pregunta:
-
-```bash
-como funciona astro?
-```
-
-Listar paginas guardadas:
-
-```bash
-/list
-```
-
-Salir del CLI:
-
-```bash
-/exit
-```
-
-Comando de ayuda:
-
-```bash
-/help
-```
-
-## Uso del CLI (sin usar la interface grafica)
+## Uso del CLI 
 
 Anadir una pagina de documentacion:
 
@@ -142,11 +102,11 @@ pnpm exec tsx src/main.ts
 Dentro de la interfaz interactiva:
 
 ```text
-/help
-/list
-/add https://docs.astro.build/en/guides/content-collections/
-como creo una coleccion de contenido
-/exit
+/help - CLI Doc      
+/list - Páginas guardadas    
+/add https://docs.astro.build/en/guides/content-collections/ - Añadir página  
+como creo una coleccion de contenido - Crear pregunta  
+/exit - Salir del CLI  
 ```
 
 ## Datos Locales
