@@ -72,8 +72,37 @@ Ejecutar el CLI en desarrollo:
 ```bash
 pnpm exec tsx src/main.ts --help
 ```
+## Uso del CLI (Comandos de la interface grafica)
 
-## Uso del CLI
+
+Abrir la interfaz interactiva en terminal:
+
+```bash
+pnpm exec tsx src/main.ts
+```
+
+
+Anadir una pagina de documentacion:
+
+```bash
+/add https://docs.astro.build/en/guides/content-collections/
+```
+
+
+Hacer una pregunta:
+
+```bash
+como funciona astro?
+```
+
+Listar paginas guardadas:
+
+```bash
+/list
+```
+
+
+## Uso del CLI (sin usar la interface grafica)
 
 Anadir una pagina de documentacion:
 
