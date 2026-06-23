@@ -101,6 +101,17 @@ Listar paginas guardadas:
 /list
 ```
 
+Salir del CLI:
+
+```bash
+/exit
+```
+
+Comando de ayuda:
+
+```bash
+/help
+```
 
 ## Uso del CLI (sin usar la interface grafica)
 
