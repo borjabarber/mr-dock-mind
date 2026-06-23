@@ -1,0 +1,6 @@
+.env
+node_modules/
+dist/
+.pnpm-store/
+.zerodocmind/
+.mr-dock-mind/
