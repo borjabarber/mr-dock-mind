@@ -1,4 +1,4 @@
-![Mr Dock_mind banner](img/bannerbw.png)
+![Mr Dock_mind banner](img/banner.png)
 
 # Mr. Dock_mind
 
